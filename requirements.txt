@@ -1,0 +1,6 @@
+pandas>=2.0.0
+httpx>=0.24.0
+ratelimit>=2.2.1
+asyncio
+python-dateutil>=2.8.0
+numpy>=1.24.0
